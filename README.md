@@ -1,5 +1,7 @@
 # week5discussion
 
+Note:- Source for the below content is "World Wide Web"
+
 •	How does the CAP Theorem play a role in designing for the cloud?
 
 CAP theorem logic is meant to allow a distributed system to deliver two of the three desired characteristics:
